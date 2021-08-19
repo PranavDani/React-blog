@@ -1,0 +1,28 @@
+{
+  "blogs": [
+    {
+      "title": "Welcome to the party",
+      "body": "lorem ipsum...",
+      "author": "Doug",
+      "id": 2
+    },
+    {
+      "title": "No tips and tricks",
+      "body": "lorem ipsum...",
+      "author": "Hushari",
+      "id": 3
+    },
+    {
+      "title": "Goku is good",
+      "body": "You should know why he is good",
+      "author": "mario",
+      "id": 4
+    },
+    {
+      "title": "jadflkajh",
+      "body": "sk.djfbs",
+      "author": "mario",
+      "id": 5
+    }
+  ]
+}
