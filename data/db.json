@@ -1,12 +1,6 @@
 {
   "blogs": [
     {
-      "title": "Welcome to the party",
-      "body": "lorem ipsum...",
-      "author": "Doug",
-      "id": 2
-    },
-    {
       "title": "No tips and tricks",
       "body": "lorem ipsum...",
       "author": "Hushari",
@@ -23,6 +17,12 @@
       "body": "sk.djfbs",
       "author": "mario",
       "id": 5
+    },
+    {
+      "title": "Movies dekhni hai bc",
+      "body": "Lately, I've been losing sleep",
+      "author": "goku",
+      "id": 6
     }
   ]
 }
